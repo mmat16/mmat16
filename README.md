@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmat16
 - 👀 I’m interested in backend and web development, working with data
-- 🌱 I’m currently learning python, selenium and web scrapping. Soon i would be studying at School21 from Sber 
+- 🌱 I’m currently learning python, go, selenium and web scrapping. Soon i would be studying at School21 from Sber 
 - 📫 You can reach me on telegram @v_util and codewars @mmat16
 
 <!---
